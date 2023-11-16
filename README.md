@@ -5,6 +5,12 @@
 
 <img src="images/poster.png"  height="300">
 Welcome to Mindmate, where we connect hearts and heal minds. As a seasoned LinkedIn SEO expert with two decades of experience, I'm thrilled to present a transformative mental wellness community.
+<br>
+<br>
+
+<b>🎥 Check out this short youtube video to learn more - <a href="https://www.youtube.com/watch?v=v2ZmnKyR1B4">Redirect to Youtube Video</a></b><br>
+
+
 ## What We Offer :
 
 - 🧘 **Guided Meditation**: Immerse yourself in calming meditation sessions designed to center your mind and promote relaxation.
