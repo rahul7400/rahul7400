@@ -5,6 +5,8 @@
 
 <img src="images/poster.png"  height="300">
 Welcome to Mindmate, where we connect hearts and heal minds. As a seasoned LinkedIn SEO expert with two decades of experience, I'm thrilled to present a transformative mental wellness community.
+
+Your well-being is our priority. Embrace Mindmate today and start your journey to a more balanced and fulfilling life. #MentalWellness #Mindmate #WellBeing
 <br>
 <br>
 
@@ -21,8 +23,6 @@ Welcome to Mindmate, where we connect hearts and heal minds. As a seasoned Linke
 
 - 🧠 **Expert Insights**: Access valuable insights from mental health experts to navigate challenges and enhance your overall well-being.
 
-
-Your well-being is our priority. Embrace Mindmate today and start your journey to a more balanced and fulfilling life. #MentalWellness #Mindmate #WellBeing
 
 <a href="https://play.google.com/store/apps/details?id=in.macrocodes.mindmate.me&hl=en">
 <img src="https://raw.githubusercontent.com/rahul7400/E-commerce-Android-App/main/images/img5.png"  height="132">
