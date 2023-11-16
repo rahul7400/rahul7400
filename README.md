@@ -3,7 +3,7 @@
 
 # Recent Launch: Mindmate - Elevate Your Well-Being 🌿🧠💪
 
-<img src="images/poster.png"  height="300">
+<img src="images/mindmate_intro_g.gif"  height="300">
 Welcome to Mindmate, where we connect hearts and heal minds. As a seasoned LinkedIn SEO expert with two decades of experience, I'm thrilled to present a transformative mental wellness community.
 
 Your well-being is our priority. Embrace Mindmate today and start your journey to a more balanced and fulfilling life. #MentalWellness #Mindmate #WellBeing
