@@ -1,6 +1,29 @@
 # 💫 About Me:
 🚀 Dedicated Android Developer: Innovating and collaborating across disciplines.<br>📚 Lifelong Learner: Constantly expanding my skills and knowledge.<br>🎬 Video Editing Pro: Proficient in Premiere Pro and After Effects.<br>🎵 Music Production Expertise: FL Studio enthusiast.<br>🌐 Diverse Portfolio: Showcasing adaptability and excellence.<br>🤝 Eager Collaborator: Ready to explore new collaborations.<br>🚀 Tech Enthusiast: Excited about the latest advancements.
 
+# Recent Launch: Mindmate - Elevate Your Well-Being 🌿🧠💪
+
+<img src="images/poster.png"  height="300">
+Welcome to Mindmate, where we connect hearts and heal minds. As a seasoned LinkedIn SEO expert with two decades of experience, I'm thrilled to present a transformative mental wellness community.
+## What We Offer :
+
+- 🧘 **Guided Meditation**: Immerse yourself in calming meditation sessions designed to center your mind and promote relaxation.
+  
+- 🤝 **Empathetic Connections**: Join a supportive community where you can connect with like-minded individuals on your wellness journey.
+
+- 📓 **Daily Journaling**: Cultivate mindfulness through daily journaling, a powerful tool for self-reflection and personal growth.
+
+- 🧠 **Expert Insights**: Access valuable insights from mental health experts to navigate challenges and enhance your overall well-being.
+
+
+Your well-being is our priority. Embrace Mindmate today and start your journey to a more balanced and fulfilling life. #MentalWellness #Mindmate #WellBeing
+
+<a href="https://play.google.com/store/apps/details?id=in.macrocodes.mindmate.me&hl=en">
+<img src="https://raw.githubusercontent.com/rahul7400/E-commerce-Android-App/main/images/img5.png"  height="132">
+</a><br>
+
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rahul7400) 
@@ -18,5 +41,4 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=rahul7400&icon=0&color=0)](https://visitcount.itsvg.in)
+
